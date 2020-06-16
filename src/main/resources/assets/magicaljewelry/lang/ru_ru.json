@@ -1,0 +1,10 @@
+{
+	"item.magicaljewelry.gold_amulet": "Золотой амулет",
+	"item.magicaljewelry.silver_amulet": "Серебряный амулет",
+	"item.magicaljewelry.gold_ring": "Золотое кольцо",
+	"item.magicaljewelry.silver_ring": "Серебряное кольцо",
+
+	"item.magicaljewelry.the_one_ring": "Единственное кольцо",
+
+	"itemGroup.magicaljewelryGroup": "Magical Jewelry"
+}
